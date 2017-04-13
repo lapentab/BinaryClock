@@ -5,5 +5,7 @@ Colors are able to be set alongside cube width, and the program will use the loc
 
 A native firmware version of this visual is available <a href="https://github.com/NxtInterlude/Native-Binary-Clock">here</a>.
 
+Written by lapentab
+
 ### Dependencies
 <a href="https://github.com/enjrolas/L3D-library">L3D-Library</a>
